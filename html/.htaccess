@@ -1,0 +1,2 @@
+# apply php.ini to all folders
+lsapi_phpini /home/voyccom/webprod/sandbox/sandbox/html/php.ini
